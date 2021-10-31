@@ -1,12 +1,12 @@
 input.onButtonPressed(Button.A, function () {
     step = -10
     basic.pause(200)
-    step = 77
+    step = 0
 })
 input.onButtonPressed(Button.B, function () {
     step = 10
     basic.pause(500)
-    step = 77
+    step = 0
 })
 let step = 0
 step = 0
